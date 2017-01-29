@@ -212,7 +212,7 @@ boolean GBPrimaNotifica = true; //serve a indicare che non è stata ancora invia
                    client << F("POST /api/pushes/") << F("Controlla_KW"); // inserire il proprio channel
                    client << F("/ HTTP/1.1\n");
                    client << F("Host: api.pushetta.com\n");
-                   client << F("Authorization: Token ") << F("2f63e45732fbb36b32564e745a450dcaa676cc0b\n"); // da inserire il proprio API Key
+                   client << F("Authorization: Token ") << F("1234567890123456789012345678901234567890\n"); // da inserire il proprio API Key
                    client << F("Content-Type: application/json\n"); 
                    client << F("Content-Length: 74\n\n");  //  74 = 26 + 2 + 46 la lunghezza del messaggio è data dalla lunghezza della descrizione
                    client << F("{ \"body\" : \"");
