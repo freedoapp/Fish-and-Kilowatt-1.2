@@ -6,7 +6,7 @@ by Mauro Segafredo freedoapp@gmail.com
 
 Progetto vincitore del "Contest Fishino" lanciato dalla rivista Elettronica In
 
-Visita http://blog.elettronicain.it/2016/04/14/monitor-consumi-elettrici-con-fishino-fish-and-kilowatt-by-mauro-segafredo/
+Visita https://ei.futuranet.it/2016/04/14/monitor-consumi-elettrici-con-fishino-fish-and-kilowatt-by-mauro-segafredo/
 
 
 
